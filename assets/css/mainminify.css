@@ -18,3 +18,30 @@
     }
     
 }
+
+#hero_slider_contactus{
+    outline:none !important;
+    border:none !important;
+}
+#hero_slider_contactus:hover{
+    color: #075ebb !important;
+}
+@media (max-width:1000px) {
+    .stats{
+        display: none;
+    }
+}
+ .stats{
+       margin-top: 50px;
+    }
+
+@media (min-width:1000px) and (max-width:1199px) {
+   #cloud_ani{
+    margin-top: 150px !important;
+   }
+  .experience-badge {
+    position: absolute;
+    right: 35% !important;
+  }
+    
+}
